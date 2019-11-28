@@ -1,0 +1,9 @@
+.login {
+    margin: auto ;
+    width: 100%;
+    border-bottom: 4px solid #86846e;
+    padding: 10px;
+}
+.login  h2 {
+    text-align: end;
+}
